@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CACSE2E]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Verify Intralink Login page(failed)">
+    <classes>
+      <class name="cacsE2E.CACSLogin">
+        <methods>
+          <include name="Intralink_Login_page"/>
+        </methods>
+      </class> <!-- cacsE2E.CACSLogin -->
+    </classes>
+  </test> <!-- Verify Intralink Login page(failed) -->
+</suite> <!-- Failed suite [CACSE2E] -->
